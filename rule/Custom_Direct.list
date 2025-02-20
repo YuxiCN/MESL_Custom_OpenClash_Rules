@@ -47,7 +47,6 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflarestorage.com
 # Cursor
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
@@ -109,4 +108,8 @@ DOMAIN-SUFFIX,xiaolianhb.com
 # 其他
 DOMAIN-SUFFIX,xzsmartmetro.com
 DOMAIN-SUFFIX,xzscjk.com
-
+# 南方电网
+DOMAIN-SUFFIX,towngasvcc.com
+DOMAIN-SUFFIX,gztowngas.com
+# 115
+DOMAIN-SUFFIX,115vod.com
